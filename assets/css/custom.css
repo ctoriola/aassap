@@ -2317,3 +2317,9 @@ a.white-btn:hover {
 .owl-carousel .owl-item a img {
     width: auto;
 }
+/* Wide screen image styling */
+@media (min-width: 1200px) {
+    .wide-screen-img {
+        width: 503px;
+    }
+}
